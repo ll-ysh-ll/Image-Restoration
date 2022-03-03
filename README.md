@@ -1,5 +1,7 @@
 # Image-Restoration
 Deep learning project consist of 4 functionalities scratch removal, enhancing blurred image, noise removal and coloring images
+Dataset used: Labeled Faces in the Wild(LFW)
+http://vis-www.cs.umass.edu/lfw/
 
 ## Screenshots
 
