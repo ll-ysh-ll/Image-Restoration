@@ -23,3 +23,11 @@ http://vis-www.cs.umass.edu/lfw/
 - [ ] Scratch Removal
 - [ ] Coloring Images
 - [ ] Deployment Using Webapp
+
+## Contact me
+
+In any case if you need help feel free to contact me anytime
+
+ yashkolekar008@gmail.com
+
+ linkedin.com/in/yash-kolekar-559492116
