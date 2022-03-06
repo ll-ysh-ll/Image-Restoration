@@ -28,6 +28,7 @@ http://vis-www.cs.umass.edu/lfw/
 
 In any case if you need help feel free to contact me anytime
 
- yashkolekar008@gmail.com
+ - yashkolekar008@gmail.com
 
- linkedin.com/in/yash-kolekar-559492116
+ - [LinkedIn](https://www.linkedin.com/in/yash-kolekar-559492116/)
+
