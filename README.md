@@ -15,7 +15,7 @@ http://vis-www.cs.umass.edu/lfw/
 <img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/denoising.png" width="750" title="Image Denoising">
 
 #### Image De-pixelate
-![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png?raw=true)
+<img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png" width="750" title="Image De-pixelate">
 
 ### To-do
 
