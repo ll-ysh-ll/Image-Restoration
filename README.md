@@ -17,11 +17,15 @@ http://vis-www.cs.umass.edu/lfw/
 #### Image De-pixelate
 <img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png" width="750" title="Image De-pixelate">
 
+#### Image In-Painting
+<img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/inpaint/Screenshots/inpainted.png" width="750" title="Image In-Painting">
+
+
 ### To-do
 
 - [x] Noise Removal
 - [x] Enhancing Blurred Image 
-- [ ] Scratch Removal
+- [x] Scratch Removal
 - [ ] Coloring Images
 - [ ] Deployment Using Webapp
 
