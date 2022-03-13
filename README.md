@@ -16,7 +16,7 @@ http://vis-www.cs.umass.edu/lfw/
 #### Image De-pixelate
 ![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png?raw=true)
 #### Image In-Painting
-![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/inpainted.png?raw=true)
+![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/inpaint/Screenshots/inpainted.png?raw=true)
 
 ### To-do
 
