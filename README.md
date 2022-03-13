@@ -12,11 +12,13 @@ http://vis-www.cs.umass.edu/lfw/
 ## Screenshots
 
 #### Image Denoising
-![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/denoising.png?raw=true)
+<img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/denoising.png" width="750" title="Image Denoising">
+
 #### Image De-pixelate
-![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png?raw=true)
+<img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/master/Screenshots/depixelate.png" width="750" title="Image De-pixelate">
+
 #### Image In-Painting
-![App Screenshot](https://github.com/ll-ysh-ll/Image-Restoration/blob/inpaint/Screenshots/inpainted.png?raw=true)
+<img src="https://github.com/ll-ysh-ll/Image-Restoration/blob/inpaint/Screenshots/inpainted.png" width="750" title="Image In-Painting">
 
 ### To-do
 
