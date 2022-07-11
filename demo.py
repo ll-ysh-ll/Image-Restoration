@@ -49,14 +49,8 @@ import threading
 import urllib.request
 from pathlib import Path
 from typing import List, NamedTuple
-
-
 import streamlit as st
 from image_processing import *
-
-
-
-
 def main():
     """
     Image Restoration
@@ -97,7 +91,7 @@ def main():
             result_img = get_depixalate(input_image)
             st.image(result_img,clamp=True, channels='RGB',width=250)
     if choice == 'Inpainting':
-        st.subheader('Image Denoise')
+        st.subheader('Image Inpainting')
         image_file = st.file_uploader("Upload Image",type=['jpg', 'png', 'jpeg'])
 
         if image_file is not None:

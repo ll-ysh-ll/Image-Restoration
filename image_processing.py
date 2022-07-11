@@ -35,9 +35,11 @@ def noisy_image(img):
   noisy = cv2.resize(noisy, (256, 256)) 
   return noisy
 
-def pixalate_image(image, scale_percent = 25):
+def pixalate_image(image, scale_percent = 23):
+
   image = image_prep.img_to_array(image)
   image = image/255.
+  image = cv2.resize(image, (256, 256))
   width = int(image.shape[1] * scale_percent / 100)
   height = int(image.shape[0] * scale_percent / 100)
   dim = (width, height)
@@ -59,6 +61,7 @@ def masked_image(image):
   #mask = np.full((256,256,3), 255, np.uint8)
   image = image_prep.img_to_array(image)
   image = image/255.
+  image=cv2.resize(image, (256, 256))
   for _ in range(np.random.randint(1, 10)):
     x1, x2 = np.random.randint(1, 256), np.random.randint(1, 256)
     y1, y2 = np.random.randint(1, 256), np.random.randint(1, 256)
